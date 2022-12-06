@@ -35,4 +35,11 @@ Then you just need to open your `index.html` file on the browser.
   <summary>
     <strong>All images from the project</strong>
   </summary>
+  
+  <img width="1783" alt="image" src="https://user-images.githubusercontent.com/65933231/205782013-9069754f-8379-416d-b928-38353fb5f6d2.png">
+  <img width="1778" alt="image" src="https://user-images.githubusercontent.com/65933231/205782187-d2b74d8e-8854-484a-814c-f3af71489894.png">
+  <img width="1781" alt="image" src="https://user-images.githubusercontent.com/65933231/205782606-ca03cf1d-af3a-466d-9a6a-e6971a93ef46.png">
+  <img width="1782" alt="image" src="https://user-images.githubusercontent.com/65933231/205782333-9b8e1f76-a18f-4599-9409-cbc800a78872.png">
+  <img width="1781" alt="image" src="https://user-images.githubusercontent.com/65933231/205782429-e0894f9e-f101-4875-aa0a-f4aa341be15d.png">
+
 </details>
